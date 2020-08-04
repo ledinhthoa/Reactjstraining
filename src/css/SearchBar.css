@@ -1,0 +1,20 @@
+.form-wrapper {
+    margin: 15px;
+  }
+  
+  .input {
+    outline: none;
+    font-size: 16px;
+    padding-left: 5px;
+    border: 1px solid olivedrab;
+  }
+  
+  .button {
+    margin-left: 10px;
+    font-size: 16px;
+    background-color: olivedrab;
+  }
+  .form-warning{
+    color: red;
+   
+  }
